@@ -7,14 +7,14 @@
 ---
 ## Skills
 
-**CI/CD & GitOps:** Jenkins, GitHub Actions, ArgoCD, GitOps workflows
-**Infrastructure as Code:** Terraform, AWS CloudFormation
-**Containers & Orchestration:** Docker, Kubernetes (EKS), Helm, Kustomize
-**Cloud Platforms:** AWS (VPC, EC2, EKS, ECR, S3), Azure (VNet, NSGs), OCI
-**Observability:** Prometheus, Grafana, Loki, Promtail, ELK Stack
-**Automation & Scripting:** Python, Bash, Ansible
-**Version Control:** Git (GitHub, branching strategies, CI integration)
-**Additional Skills:** Technical documentation, root cause analysis, project coordination, cross-functional collaboration
+- **CI/CD & GitOps:** Jenkins, GitHub Actions, ArgoCD, GitOps workflows
+- **Infrastructure as Code:** Terraform, AWS CloudFormation
+- **Containers & Orchestration:** Docker, Kubernetes (EKS), Helm, Kustomize
+- **Cloud Platforms:** AWS (VPC, EC2, EKS, ECR, S3), Azure (VNet, NSGs), OCI
+- **Observability:** Prometheus, Grafana, Loki, Promtail, ELK Stack
+- **Automation & Scripting:** Python, Bash, Ansible
+- **Version Control:** Git (GitHub, branching strategies, CI integration)
+- **Additional Skills:** Technical documentation, root cause analysis, project coordination, cross-functional collaboration
 
 ---
 
