@@ -49,8 +49,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=talkbill&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  
+<div align="center">  
   **"Infrastructure as Code is not just a practice, it's a mindset."**
 </div>
