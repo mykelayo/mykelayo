@@ -50,5 +50,5 @@
 ---
 
 <div align="center">  
-  **"Infrastructure as Code is not just a practice, it's a mindset."**
+  "Infrastructure as Code is not just a practice, it's a mindset."
 </div>
